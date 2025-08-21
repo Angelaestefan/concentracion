@@ -2,3 +2,5 @@
 .venv/
 *.csv
 catboost_info/
+*.dct
+*.dat.gz
